@@ -4,11 +4,11 @@ import os
 import dotenv
 
 # Cargar las variables de entorno
-#dotenv.load_dotenv()
+dotenv.load_dotenv()
 
 # Configura tu clave de API
 
-client = OpenAI(api_key='sk-proj-ZAsIEIovHmy64dt4zNI7T3BlbkFJb14c0xpjDSExkNS46TDv')
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 def clean_string(text):
     # Reemplazar \n con espacios
