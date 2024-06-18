@@ -4,7 +4,7 @@ import os
 import dotenv
 
 # Cargar las variables de entorno
-dotenv.load_dotenv()
+#dotenv.load_dotenv()
 
 # Configura tu clave de API
 
