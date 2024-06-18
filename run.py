@@ -183,6 +183,6 @@ async def main():
     async with websockets.serve(handle_client, "0.0.0.0", port):
         await asyncio.Future()  # Run forever
 
-if __name__ == "__ "__main__":
+if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     asyncio.run(main())
