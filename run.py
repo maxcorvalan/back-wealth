@@ -168,7 +168,7 @@ async def handle_client(websocket, path):
 
 async def main():
     port = int(os.getenv('PORT', 8765))  # Default to 8765 if PORT not set
-    async with webpowersockets.serve(handle_client, '0.0.0.0', port):
+    async with websockets.serve(handle_client, '0.0.0.0', port):
         await asyncio.Future()  # Run forever
 
 if __name__ == "__main__":
