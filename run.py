@@ -175,7 +175,6 @@ async def handle_client(websocket, path):
             print(f"Using assistant: {assistant_id} in thread {thread_id} with files: {message_files}")
 
             response = get_assistant_response(data['context'], data['message'], assistant_id, thread_id, message_files)
-            print(response)
             
         await websocket.send(json.dumps(response, ensure_ascii=False))
 
