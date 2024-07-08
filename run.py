@@ -159,26 +159,10 @@ async def handle_client(websocket, path):
                 'ip': data['code']
             }
 
-        elif data['context'] == 1:
-            try:
-                filename = f"resumenes/{data['message']}.txt"
-                with open(filename, 'r') as file:
-                    file_content = file.read()
-                response = {
-                    'context': 1,
-                    'message': file_content,
-                    'ip': data['code']
-                }
-            except Exception as e:
-                response = {
-                    'context': 1,
-                    'message': f"Error reading file: {e}",
-                    'ip': data['code']
-                }
-
         else:
             assistant_id = assistant_id_array[data['context']]
             thread_id = thread_dict.get(data['code'])[data['context'] % 2]
+
 
             if 'files' not in data:
                 message_files = []
