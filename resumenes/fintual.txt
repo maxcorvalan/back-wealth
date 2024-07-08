@@ -1,0 +1,110 @@
+### Resumen Financiero de Fintual Administradora General de Fondos S.A. al 31 de diciembre de 2023 y 2022
+
+#### **1. Opinión del Auditor Independiente**
+La auditoría, realizada por EY Chile, concluye que los estados financieros de Fintual Administradora General de Fondos S.A. presentan razonablemente, en todos sus aspectos significativos, la situación financiera y los resultados de sus operaciones de acuerdo con las Normas Internacionales de Información Financiera (NIIF).
+
+#### **2. Estados de Situación Financiera**
+
+**Activos**
+- **Efectivo y equivalentes al efectivo:** M$ 548.159 (2023), M$ 436.126 (2022).
+- **Deudores comerciales y otras cuentas por cobrar:** M$ 259.861 (2023), M$ 160.612 (2022).
+- **Propiedades, plantas y equipos:** M$ 1.716 (2023), M$ 2.298 (2022).
+
+**Total Activos:** M$ 952.226 (2023), M$ 836.950 (2022).
+
+**Pasivos**
+- **Cuentas por pagar a entidades relacionadas:** M$ 139.970 (2023), M$ 227.510 (2022).
+- **Cuentas comerciales y otras cuentas por pagar:** M$ 74.152 (2023), M$ 57.836 (2022).
+- **Provisiones por beneficios a los empleados:** M$ 8.777 (2023), M$ 17.785 (2022).
+
+**Total Pasivos:** M$ 361.633 (2023), M$ 422.847 (2022).
+
+**Patrimonio**
+- **Capital emitido:** M$ 2.805.000 (2023), M$ 1.245.000 (2022).
+- **Ganancias acumuladas:** M$ (2.214.407) (2023), M$ (830.897) (2022).
+
+**Total Patrimonio:** M$ 590.593 (2023), M$ 414.103 (2022).
+
+#### **3. Estados de Resultados Integrales**
+
+**Ingresos de actividades ordinarias:** M$ 4.568.048 (2023), M$ 5.148.199 (2022).
+**Ganancia (pérdida) del ejercicio:** M$ (1.383.510) (2023), M$ (766.007) (2022).
+
+#### **4. Estados de Flujos de Efectivo**
+
+**Actividades de operación:**
+- **Cobros procedentes de ventas y servicios:** M$ 4.308.187 (2023), M$ 5.150.648 (2022).
+- **Pagos a proveedores y empleados:** M$ 5.770.518 (2023), M$ 5.990.607 (2022).
+- **Intereses recibidos:** M$ 45.435 (2023), M$ 29.500 (2022).
+
+**Flujos de efectivo netos procedentes de actividades de operación:** M$ (1.447.967) (2023), M$ (929.318) (2022).
+
+**Actividades de inversión:**
+- **No hubo movimientos significativos en actividades de inversión en 2023 ni en 2022.**
+
+**Actividades de financiación:**
+- **Emisión de acciones:** M$ 1.560.000 (2023).
+- **Flujos de efectivo netos procedentes de actividades de financiación:** M$ 1.560.000 (2023).
+
+**Efectivo y equivalentes al efectivo al final del periodo:** M$ 548.159 (2023), M$ 436.126 (2022).
+
+
+Estos estados financieros reflejan un aumento en activos totales y patrimonio de la compañía entre 2022 y 2023, principalmente debido a una emisión de acciones significativa. Los ingresos de actividades ordinarias disminuyeron ligeramente, y la compañía reportó una pérdida en ambos ejercicios. Los flujos de efectivo de operaciones fueron negativos, pero la emisión de acciones proporcionó un flujo de efectivo positivo en actividades de financiación.
+
+### Desglose
+
+#### **Opinión del Auditor Independiente**
+EY Chile emitió una opinión limpia sobre los estados financieros de Fintual Administradora General de Fondos S.A. para los años terminados el 31 de diciembre de 2023 y 2022. Esto indica que los estados financieros presentan razonablemente la situación financiera y los resultados operacionales de la compañía conforme a las Normas Internacionales de Información Financiera (NIIF).
+
+#### **Situación Financiera**
+La compañía mostró un aumento en sus activos totales, especialmente en efectivo y equivalentes al efectivo, lo que sugiere una mejora en la liquidez de la empresa. También hubo un aumento significativo en los deudores comerciales y otras cuentas por cobrar, lo que puede reflejar un incremento en las ventas a crédito o en cuentas pendientes de cobro.
+
+En cuanto a los pasivos, estos disminuyeron tanto en términos de cuentas por pagar a entidades relacionadas como en provisiones por beneficios a los empleados. Esta reducción en los pasivos sugiere una mejora en la gestión de las obligaciones financieras de la empresa.
+
+El patrimonio de la compañía aumentó notablemente debido a una emisión significativa de acciones, lo que indica una inyección de capital que podría ser utilizada para financiar expansiones o cubrir pérdidas.
+
+#### **Resultados Operacionales**
+Los ingresos de actividades ordinarias disminuyeron ligeramente respecto al año anterior, lo que podría reflejar una leve reducción en la capacidad de generación de ingresos de la compañía. Además, la compañía reportó pérdidas en ambos ejercicios, con una pérdida mayor en 2023 en comparación con 2022. Este aumento en las pérdidas podría estar relacionado con mayores gastos operativos o una reducción en los ingresos.
+
+#### **Flujos de Efectivo**
+Los flujos de efectivo procedentes de las actividades operacionales fueron negativos en ambos años, lo que indica que la compañía no generó suficiente efectivo a partir de sus operaciones principales para cubrir sus gastos. Sin embargo, la emisión de acciones en 2023 proporcionó un flujo de efectivo positivo en actividades de financiación, lo que ayudó a compensar las salidas de efectivo operativas.
+
+#### **Riesgos y Gestión**
+La administración de riesgos financieros está detallada en las notas a los estados financieros, indicando que la compañía tiene una estrategia clara para manejar sus riesgos de mercado, crédito y liquidez. Esta gestión efectiva de riesgos es crucial para mantener la estabilidad y la solvencia a largo plazo.
+
+#### **Conclusión**
+En general, Fintual Administradora General de Fondos S.A. mostró una gestión financiera sólida con una mejora en la liquidez y un aumento significativo en el patrimonio gracias a la emisión de acciones. Aunque los ingresos operacionales disminuyeron ligeramente y la compañía reportó pérdidas, la inyección de capital mediante la emisión de acciones proporcionó un soporte financiero importante. La gestión de riesgos financieros está bien estructurada, lo cual es vital para su sostenibilidad futura.
+
+### Diez Puntos Claves
+
+1. **Opinión Limpia del Auditor Independiente:**
+   - EY Chile emitió una opinión limpia sobre los estados financieros, indicando que estos reflejan razonablemente la situación financiera y los resultados operacionales de la compañía conforme a las NIIF.
+
+2. **Aumento en Efectivo y Equivalentes al Efectivo:**
+   - El efectivo y equivalentes al efectivo aumentaron de M$ 436.126 en 2022 a M$ 548.159 en 2023, mejorando la liquidez de la empresa.
+
+3. **Incremento en Deudores Comerciales y Otras Cuentas por Cobrar:**
+   - Los deudores comerciales y otras cuentas por cobrar aumentaron de M$ 160.612 en 2022 a M$ 259.861 en 2023, lo que podría reflejar un aumento en las ventas a crédito o en cuentas pendientes de cobro.
+
+4. **Disminución en Cuentas por Pagar a Entidades Relacionadas:**
+   - Las cuentas por pagar a entidades relacionadas disminuyeron de M$ 227.510 en 2022 a M$ 139.970 en 2023, sugiriendo una mejor gestión de las obligaciones financieras con entidades relacionadas.
+
+5. **Reducción en Provisiones por Beneficios a los Empleados:**
+   - Las provisiones por beneficios a los empleados disminuyeron de M$ 17.785 en 2022 a M$ 8.777 en 2023, indicando una menor obligación por estos beneficios.
+
+6. **Aumento Significativo en Capital Emitido:**
+   - El capital emitido aumentó de M$ 1.245.000 en 2022 a M$ 2.805.000 en 2023, reflejando una inyección significativa de capital mediante la emisión de acciones.
+
+7. **Incremento en Ganancias Acumuladas Negativas:**
+   - Las ganancias acumuladas negativas aumentaron de M$ (830.897) en 2022 a M$ (2.214.407) en 2023, reflejando una mayor acumulación de pérdidas.
+
+8. **Disminución en Ingresos de Actividades Ordinarias:**
+   - Los ingresos de actividades ordinarias disminuyeron de M$ 5.148.199 en 2022 a M$ 4.568.048 en 2023, mostrando una ligera reducción en la capacidad de generación de ingresos.
+
+9. **Aumento en Pérdidas del Ejercicio:**
+   - La pérdida del ejercicio aumentó de M$ (766.007) en 2022 a M$ (1.383.510) en 2023, indicando una mayor pérdida en 2023.
+
+10. **Flujos de Efectivo Negativos de Operaciones:**
+    - Los flujos de efectivo netos procedentes de actividades de operación fueron negativos, alcanzando M$ (1.447.967) en 2023, comparados con M$ (929.318) en 2022, reflejando una mayor salida de efectivo en las operaciones.
+
+Estos puntos clave resaltan tanto los aspectos positivos como los desafíos financieros enfrentados por Fintual Administradora General de Fondos S.A., incluyendo la gestión de sus activos y pasivos, la emisión de acciones para aumentar el capital, y las variaciones en los ingresos operacionales y pérdidas.

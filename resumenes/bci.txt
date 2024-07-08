@@ -1,0 +1,110 @@
+### Resumen Financiero de BCI Asset Management Administradora General de Fondos S.A. al 31 de diciembre de 2023 y 2022
+
+#### **1. Opinión del Auditor Independiente**
+La auditoría fue realizada por KPMG Auditores Consultores Limitada. Los auditores concluyeron que los estados financieros de BCI Asset Management Administradora General de Fondos S.A. presentan razonablemente, en todos sus aspectos significativos, la situación financiera y los resultados de sus operaciones conforme a las Normas Internacionales de Información Financiera (NIIF) y las normas emitidas por la Comisión para el Mercado Financiero.
+
+#### **2. Estados de Situación Financiera**
+
+**Activos**
+- **Efectivo y equivalentes al efectivo:** M$ 13.108.348 (2023), M$ 3.518.677 (2022).
+- **Activos financieros a valor razonable:** M$ 140.037.024 (2023), M$ 123.423.993 (2022).
+- **Activos financieros a costo amortizado:** M$ 53.322.521 (2023), M$ 48.556.508 (2022).
+- **Deudores comerciales y otras cuentas por cobrar:** M$ 16.285.407 (2023), M$ 14.137.749 (2022).
+
+**Total Activos:** M$ 238.962.628 (2023), M$ 209.985.359 (2022).
+
+**Pasivos**
+- **Otros pasivos financieros:** M$ 12.623.591 (2023), M$ 1.387.061 (2022).
+- **Cuentas comerciales y otras cuentas por pagar:** M$ 35.388.003 (2023), M$ 37.600.444 (2022).
+- **Cuentas por pagar a entidades relacionadas:** M$ 50.678.704 (2023), M$ 38.872.158 (2022).
+
+**Total Pasivos:** M$ 111.421.842 (2023), M$ 86.865.284 (2022).
+
+**Patrimonio**
+- **Capital emitido:** M$ 20.407.840 (2023 y 2022).
+- **Ganancias acumuladas:** M$ 106.696.985 (2023), M$ 102.276.274 (2022).
+
+**Total Patrimonio:** M$ 127.540.786 (2023), M$ 123.120.075 (2022).
+
+#### **3. Estados de Resultados Integrales**
+
+**Ingresos de actividades ordinarias:** M$ 59.089.600 (2023), M$ 59.935.304 (2022).
+**Gastos de administración:** M$ 24.406.754 (2023), M$ 22.769.557 (2022).
+**Ganancia (pérdida) del ejercicio:** M$ 37.020.711 (2023), M$ 40.005.944 (2022).
+
+#### **4. Estados de Flujos de Efectivo**
+
+**Actividades de operación:**
+- **Cobros procedentes de venta de bienes y prestación de servicios:** M$ 58.240.877 (2023), M$ 60.112.978 (2022).
+- **Pagos a proveedores y empleados:** M$ 19.287.557 (2023), M$ 18.470.722 (2022).
+- **Flujos de efectivo netos procedentes de actividades de operación:** M$ 46.573.813 (2023), M$ 36.175.467 (2022).
+
+**Actividades de inversión:**
+- **Otros cobros por venta de activos financieros:** M$ 126.664.423 (2023), M$ 170.545.620 (2022).
+- **Otros pagos para adquisición de activos financieros:** M$ 148.043.467 (2023), M$ 169.359.048 (2022).
+- **Flujos de efectivo netos procedentes de (utilizados en) actividades de inversión:** M$ (24.027.218) (2023), M$ (600.789) (2022).
+
+**Actividades de financiación:**
+- **Otros pasivos financieros recibidos:** M$ 23.280.880 (2023), M$ 18.347.978 (2022).
+- **Cuentas por pagar a entidades relacionadas recibidos:** M$ 128.885.102 (2023), M$ 154.571.282 (2022).
+- **Dividendos pagados:** M$ (36.000.000) (2023), M$ (28.204.000) (2022).
+- **Flujos de efectivo netos (utilizados en) procedentes de actividades de financiación:** M$ (12.956.924) (2023), M$ (34.479.808) (2022).
+
+**Efectivo y equivalentes al efectivo al final del periodo:** M$ 13.108.348 (2023), M$ 3.518.677 (2022).
+
+
+Estos estados financieros reflejan un aumento significativo en los activos corrientes y una mejora notable en el efectivo y equivalentes al efectivo de la compañía entre 2022 y 2023. Sin embargo, también hubo un incremento en los pasivos financieros corrientes, principalmente en cuentas por pagar a entidades relacionadas. Los ingresos de actividades ordinarias se mantuvieron relativamente estables, mientras que los gastos de administración aumentaron. La compañía sigue generando flujos de efectivo positivos de sus operaciones, pero enfrentó una salida significativa de efectivo debido al pago de dividendos.
+
+### Resumen Cualitativo de los Estados Financieros de BCI Asset Management Administradora General de Fondos S.A.
+
+#### **Desglose**
+Los auditores de KPMG Auditores Consultores Limitada emitieron una opinión limpia sobre los estados financieros de BCI Asset Management Administradora General de Fondos S.A. para los años terminados el 31 de diciembre de 2023 y 2022. Esto significa que, según su evaluación, los estados financieros reflejan de manera justa y razonable la situación financiera y los resultados operacionales de la compañía.
+
+#### **Situación Financiera**
+La compañía mostró un aumento significativo en sus activos corrientes, especialmente en efectivo y equivalentes al efectivo, lo que sugiere una mejora en la liquidez y capacidad de responder a necesidades financieras a corto plazo. Este incremento es notablemente significativo al comparar los M$ 13.108.348 de 2023 con los M$ 3.518.677 de 2022.
+
+Por otro lado, los pasivos también aumentaron, principalmente debido a las cuentas por pagar a entidades relacionadas, lo que podría indicar un mayor financiamiento interno o deudas interempresariales dentro del grupo BCI.
+
+#### **Resultados Operacionales**
+Los ingresos de actividades ordinarias se mantuvieron relativamente estables entre 2022 y 2023, reflejando una constancia en las operaciones y en la capacidad de generación de ingresos de la compañía. Sin embargo, se observó un incremento en los gastos de administración, lo que podría estar relacionado con mayores costos operativos o inversiones en expansión y desarrollo de la empresa.
+
+#### **Flujos de Efectivo**
+Los flujos de efectivo procedentes de las actividades operacionales fueron positivos y superiores a los del año anterior, lo que indica una buena capacidad de generación de efectivo a partir de las operaciones principales de la compañía. No obstante, hubo una salida significativa de efectivo debido al pago de dividendos, reflejando un compromiso con los accionistas pero también una reducción en el efectivo disponible para otras inversiones o necesidades.
+
+#### **Riesgos y Gestión**
+La administración de riesgos financieros está detalladamente cubierta en las notas a los estados financieros, indicando que la compañía toma en serio la gestión de sus riesgos y mantiene una estrategia clara para manejarlos. Esto incluye la gestión de riesgos de mercado, de crédito y de liquidez.
+
+#### **Conclusión**
+En general, BCI Asset Management Administradora General de Fondos S.A. mostró una mejora en su posición de liquidez y una gestión estable de sus operaciones e ingresos. Aunque los gastos administrativos aumentaron y se incrementaron los pasivos, la compañía sigue demostrando una sólida capacidad de generar efectivo y cumplir con sus obligaciones financieras. Las decisiones estratégicas, como el pago de dividendos significativos, también reflejan un enfoque equilibrado entre retribuir a los accionistas y mantener la estabilidad financiera.
+
+### Diez Puntos Claves
+
+1. **Opinión Limpia del Auditor Independiente:**
+   - KPMG Auditores Consultores Limitada emitió una opinión limpia sobre los estados financieros, confirmando que reflejan fielmente la situación financiera y los resultados operacionales de la compañía.
+
+2. **Aumento Significativo en Efectivo y Equivalentes al Efectivo:**
+   - El efectivo y equivalentes al efectivo aumentaron de M$ 3.518.677 en 2022 a M$ 13.108.348 en 2023, mejorando la liquidez de la empresa.
+
+3. **Incremento en Activos Financieros a Valor Razonable:**
+   - Los activos financieros a valor razonable crecieron de M$ 123.423.993 en 2022 a M$ 140.037.024 en 2023, indicando una gestión efectiva de inversiones.
+
+4. **Estabilidad en los Ingresos de Actividades Ordinarias:**
+   - Los ingresos de actividades ordinarias se mantuvieron estables, con M$ 59.935.304 en 2022 y M$ 59.089.600 en 2023, mostrando consistencia en la capacidad de generación de ingresos.
+
+5. **Aumento en los Gastos de Administración:**
+   - Los gastos de administración aumentaron de M$ 22.769.557 en 2022 a M$ 24.406.754 en 2023, lo que puede estar relacionado con mayores costos operativos o inversiones en expansión.
+
+6. **Flujos de Efectivo Positivos de Operaciones:**
+   - Los flujos de efectivo netos procedentes de actividades de operación fueron positivos, alcanzando M$ 46.573.813 en 2023, comparado con M$ 36.175.467 en 2022.
+
+7. **Salida Significativa de Efectivo por Pago de Dividendos:**
+   - La compañía pagó M$ 36.000.000 en dividendos en 2023, lo que refleja un compromiso con los accionistas y una salida considerable de efectivo.
+
+8. **Aumento en Pasivos Financieros Corrientes:**
+   - Los otros pasivos financieros corrientes aumentaron significativamente de M$ 1.387.061 en 2022 a M$ 12.623.591 en 2023, indicando un posible aumento en deudas a corto plazo.
+
+9. **Incremento en Cuentas por Pagar a Entidades Relacionadas:**
+   - Las cuentas por pagar a entidades relacionadas crecieron de M$ 38.872.158 en 2022 a M$ 50.678.704 en 2023, sugiriendo una mayor dependencia de financiamiento interno dentro del grupo BCI.
+
+10. **Gestión Efectiva de Riesgos Financieros:**
+    - La compañía ha detallado su administración de riesgos financieros en las notas a los estados financieros, abarcando riesgos de mercado, crédito y liquidez, demostrando una estrategia clara y robusta en la gestión de riesgos.
