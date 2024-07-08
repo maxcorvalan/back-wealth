@@ -137,6 +137,17 @@ def get_assistant_response(message_context, message_content, assistant_id, threa
 
     return result
 
+def obtener_resumen(file_name):
+    file_path = os.path.join('resumenes', f"{file_name}.txt")
+    print(f"Trying to open file: {file_path}")
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            print(f"File {file_path} opened successfully")
+            return file.read()
+    except FileNotFoundError:
+        print(f"File {file_path} not found")
+        return "El archivo solicitado no se encuentra en la carpeta 'resumenes'."
+
 assistant_id_array = ["asst_8LUnQH0Z2sJz6aqHhhC5e2vv",
                       "asst_8LUnQH0Z2sJz6aqHhhC5e2vv",
                       "asst_YaaHWKvHKWxn6DbSbJx1YKwW"]
@@ -159,10 +170,20 @@ async def handle_client(websocket, path):
                 'ip': data['code']
             }
 
+        elif data['context'] == 1:
+            # Obtener el contenido del archivo TXT
+            file_name = data['files'][0]
+            print(f"Obteniendo resumen de {file_name}")
+            resumen_content = obtener_resumen(file_name)
+            response = {
+                'context': 1,
+                'natural_response': resumen_content
+            }
+            print(f"Sending response: {response}")
+
         else:
             assistant_id = assistant_id_array[data['context']]
             thread_id = thread_dict.get(data['code'])[data['context'] % 2]
-
 
             if 'files' not in data:
                 message_files = []
@@ -175,8 +196,10 @@ async def handle_client(websocket, path):
             print(f"Using assistant: {assistant_id} in thread {thread_id} with files: {message_files}")
 
             response = get_assistant_response(data['context'], data['message'], assistant_id, thread_id, message_files)
-            
+        
+        # Envío de la respuesta al cliente
         await websocket.send(json.dumps(response, ensure_ascii=False))
+        print(f"Response sent: {response}")
 
 async def main():
     port = int(os.getenv("PORT", 8765))
