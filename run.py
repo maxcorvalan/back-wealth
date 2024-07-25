@@ -8,17 +8,17 @@ from datetime import datetime
 import utils
 import asyncio
 import json
-import html
+import html 
 
 # Cargar las variables de entorno
-dotenv.load_dotenv()
+dotenv.load_dotenv() 
 
 # Configura tu clave de API
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 def wait_for_run_completion(client, thread_id, run_id, sleep_interval=5):
     """
-    Waits for a run to complete and prints the elapsed time.
+    Waits f or a run to complete and prints the elapsed time.
     :param client
     :param thread_id: The ID of the thread.
     :param run_id: The ID of the run.
