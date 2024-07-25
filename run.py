@@ -183,7 +183,7 @@ async def handle_client(websocket, path):
 
         else:
             assistant_id = assistant_id_array[data['context']]
-            thread_id = thread_dict.get(data['code'])[data['context'] % 2]
+            thread_id = thread_dict.get(data['code'])[data['context'] ]
 
             if 'files' not in data:
                 message_files = []
