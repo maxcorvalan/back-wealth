@@ -111,10 +111,10 @@ def get_assistant_response(message_context, message_content, assistant_id, threa
             thread_id=thread_id,
             role='user',
             content=message_content,
-            # attachments=[
-            #     {"file_id": files_dict[message_files[0]], "tools": [{"type": "file_search"}]},
-            #     {"file_id": files_dict[message_files[1]], "tools": [{"type": "file_search"}]}
-            # ],
+            attachments=[
+                {"file_id": files_dict[message_files[0]], "tools": [{"type": "file_search"}]},
+                {"file_id": files_dict[message_files[1]], "tools": [{"type": "file_search"}]}
+            ],
         )
 
     run = client.beta.threads.runs.create(
