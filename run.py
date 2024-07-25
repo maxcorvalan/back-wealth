@@ -150,12 +150,12 @@ def obtener_resumen(file_name):
 
 assistant_id_array = ["asst_8LUnQH0Z2sJz6aqHhhC5e2vv",
                       "asst_8LUnQH0Z2sJz6aqHhhC5e2vv",
-                      "asst_8LUnQH0Z2sJz6aqHhhC5e2vv"]
+                      "asst_YaaHWKvHKWxn6DbSbJx1YKwW"] #asst_YaaHWKvHKWxn6DbSbJx1YKwW
 
 #==== Cuando se haga el deploy hay que crear nuevos threads basados en el inicio de sesion
 thread_id_array = ["thread_x1BUWgcQja74t8qizNkOfUUZ",
                    "thread_x1BUWgcQja74t8qizNkOfUUZ",
-                   "thread_x1BUWgcQja74t8qizNkOfUUZ"]
+                   "thread_HgJqhmuqLO6fmxBIJIzBlSBG"] #thread_HgJqhmuqLO6fmxBIJIzBlSBG 
 
 async def handle_client(websocket, path):
     async for message in websocket:
