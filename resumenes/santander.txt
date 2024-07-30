@@ -1,101 +1,112 @@
-### Resumen Financiero de Santander Asset Management S.A. Administradora General de Fondos al 31 de diciembre de 2023 y 2022
+# Resumen financiero de Santander Asset Management S.A. Administradora General de Fondos al 31 de diciembre de 2023
 
-#### **1. Opinión del Auditor Independiente**
-La auditoría fue realizada por PricewaterhouseCoopers Consultores Auditores Compañía Limitada. Los auditores concluyeron que los estados financieros de Santander Asset Management S.A. Administradora General de Fondos presentan razonablemente, en todos sus aspectos significativos, la situación financiera y los resultados de sus operaciones conforme a las Normas Internacionales de Información Financiera (NIIF).
+## Resumen Cuantitativo
 
-#### **2. Estados de Situación Financiera**
+### 1. Opinión del Auditor Independiente
 
-**Activos**
-- **Efectivo y equivalentes al efectivo:** M$ 18.197.234 (2023), M$ 20.082.021 (2022).
-- **Deudores comerciales y otras cuentas por cobrar:** M$ 2.015.000 (2023), M$ 2.300.691 (2022).
-- **Total Activos:** M$ 22.939.043 (2023), M$ 26.104.530 (2022).
+El auditor independiente, Fernando Orihuela B. de PricewaterhouseCoopers Consultores Auditores Compañía Limitada, realizó la auditoría de los estados financieros. En su opinión, los estados financieros adjuntos presentan razonablemente, en todos sus aspectos significativos, la situación financiera de Santander Asset Management S.A. Administradora General de Fondos al 31 de diciembre de 2023 y 2022, los resultados de sus operaciones y sus flujos de efectivo por los años terminados en esas fechas de acuerdo con Normas Internacionales de Información Financiera emitidas por el International Accounting Standards Board.
 
-**Pasivos**
-- **Pasivos financieros corrientes:** M$ 428.603 (2023), M$ 508.381 (2022).
-- **Cuentas comerciales y otras cuentas por pagar:** M$ 553.415 (2023), M$ 1.331.893 (2022).
-- **Total Pasivos Corrientes:** M$ 7.591.985 (2023), M$ 11.365.908 (2022).
-- **Total Pasivos No Corrientes:** M$ 401.201 (2023), M$ 840.616 (2022).
+### 2. Estados de Situación Financiera
 
-**Patrimonio**
-- **Capital emitido:** M$ 12.045.333 (2023 y 2022).
-- **Ganancias acumuladas:** M$ 11.550.725 (2023), M$ 11.083.705 (2022).
-- **Total Patrimonio:** M$ 14.945.857 (2023), M$ 13.898.006 (2022).
+#### 2.1. Activos:
+- Efectivo y efectivo equivalente: 18.197.234 M$
+- Deudores comerciales y otras cuentas por cobrar: 2.015.000 M$
+- Propiedad, planta y equipos: 317.823 M$
 
-#### **3. Estados de Resultados Integrales**
+Total de activos: 22.939.043 M$
 
-**Ingresos de actividades ordinarias:** M$ 83.665.049 (2023), M$ 77.882.405 (2022).
-**Ganancia del ejercicio:** M$ 11.550.725 (2023), M$ 11.083.705 (2022).
+#### 2.2. Pasivos:
+- Cuentas comerciales y otras cuentas por pagar: 553.415 M$
+- Cuentas por pagar a entidades relacionadas: 1.987.992 M$
+- Provisiones por beneficios a los empleados: 2.109.361 M$
 
-#### **4. Estados de Flujos de Efectivo**
+Total de pasivos: 7.993.186 M$
 
-**Actividades de operación:**
-- **Utilidad del ejercicio:** M$ 11.550.725 (2023), M$ 11.083.705 (2022).
-- **Flujos de efectivo netos procedentes de actividades de operación:** M$ 8.822.868 (2023), M$ 9.917.938 (2022).
+#### 2.3. Patrimonio:
+- Capital emitido: 12.045.333 M$
+- Ganancias acumuladas: 11.550.725 M$
+- Total patrimonio: 14.945.857 M$
 
-**Actividades de inversión:**
-- **Flujos de efectivo netos (utilizados) en actividades de inversión:** M$ 0 (2023), M$ (7.501) (2022).
+### 3. Estados de Resultados
 
-**Actividades de financiación:**
-- **Dividendos pagados:** M$ (10.502.874) (2023), M$ (10.960.023) (2022).
-- **Flujos de efectivo netos (utilizados) en actividades de financiación:** M$ (10.502.874) (2023), M$ (10.960.023) (2022).
+#### 3.1. Ingresos:
+83.665.049 M$
 
-**Efectivo y equivalentes al efectivo al final del periodo:** M$ 18.197.234 (2023), M$ 20.082.021 (2022).
+#### 3.2. Costo financiero:
+16.770 M$
 
+#### 3.3. Gastos de administración:
+70.918.094 M$
 
-Estos estados financieros reflejan una disminución en activos y pasivos, con una reducción notable en efectivo y equivalentes al efectivo, así como en las cuentas comerciales y otras cuentas por pagar. Los ingresos de actividades ordinarias aumentaron, y la compañía mantuvo una ganancia significativa durante el ejercicio. Los flujos de efectivo de operaciones fueron positivos, aunque hubo una salida importante de efectivo debido al pago de dividendos.
+#### 3.4. Resultado del ejercicio:
+11.550.725 M$
 
-### Desglose
+### 4. Estados de Flujos de Efectivo
 
-#### **Opinión del Auditor Independiente**
-PricewaterhouseCoopers Consultores Auditores Compañía Limitada emitió una opinión limpia sobre los estados financieros de Santander Asset Management S.A. Administradora General de Fondos para los años terminados el 31 de diciembre de 2023 y 2022. Esto indica que los estados financieros presentan razonablemente la situación financiera y los resultados operacionales de la compañía conforme a las Normas Internacionales de Información Financiera (NIIF).
+#### 4.1. Flujos de actividades de operación:
+8.822.868 M$
 
-#### **Situación Financiera**
-La compañía mostró una disminución en sus activos corrientes, especialmente en efectivo y equivalentes al efectivo, lo que puede indicar una reducción en la liquidez inmediata de la empresa. A pesar de esta reducción, la empresa mantuvo una base sólida de activos no corrientes, aunque también hubo una disminución en este rubro.
+#### 4.2. Flujos de actividades de inversión:
+0 M$
 
-En cuanto a los pasivos, tanto los corrientes como los no corrientes experimentaron una disminución significativa, sugiriendo una reducción en las obligaciones financieras a corto y largo plazo. Esto puede interpretarse como una mejora en la salud financiera de la compañía, ya que se redujeron las deudas y otras obligaciones.
+#### 4.3. Flujos de actividades de financiamiento:
+(10.502.874) M$
 
-#### **Resultados Operacionales**
-Los ingresos de actividades ordinarias mostraron un aumento respecto al año anterior, reflejando una mejora en la capacidad de generación de ingresos de la compañía. Este incremento en los ingresos fue acompañado de una gestión efectiva de los gastos de administración, que, aunque aumentaron, lo hicieron a un ritmo controlado en comparación con el aumento de los ingresos.
+#### 4.4. Efectivo y equivalente al efectivo:
+18.197.234 M$
 
-La ganancia del ejercicio se mantuvo sólida, mostrando una estabilidad en la rentabilidad de la empresa. La compañía logró mantener un buen margen de beneficios, lo cual es positivo para sus perspectivas financieras a largo plazo.
+Los estados financieros muestran una gestión efectiva con ingresos sólidos, a pesar de los altos costos financieros y gastos de administración. La empresa mantiene un resultado positivo en el ejercicio y una buena capacidad de generación de efectivo a través de sus operaciones. La posición de liquidez es fuerte con un aumento en el efectivo y equivalentes al efectivo.
 
-#### **Flujos de Efectivo**
-Los flujos de efectivo procedentes de las actividades operacionales fueron positivos, lo que indica una buena capacidad de la empresa para generar efectivo a partir de sus operaciones principales. Sin embargo, hubo una salida significativa de efectivo debido al pago de dividendos, lo cual refleja un compromiso con los accionistas pero también una reducción en el efectivo disponible para otras inversiones o necesidades operacionales.
+## Resumen Cualitativo
 
+### 1. Estados de Situación Financiera
 
-#### **Conclusión**
-En general, Santander Asset Management S.A. Administradora General de Fondos mostró una gestión financiera sólida con una ligera disminución en la liquidez inmediata pero manteniendo una buena base de activos y una gestión efectiva de sus pasivos. Los ingresos operacionales aumentaron y la rentabilidad se mantuvo estable, lo cual es positivo para la salud financiera de la empresa. La compañía demostró una buena capacidad para generar efectivo a partir de sus operaciones, aunque enfrentó una salida significativa de efectivo debido al pago de dividendos. La gestión de riesgos financieros está bien estructurada, lo cual es vital para su sostenibilidad futura.
+#### 1.1. Activos:
+Los activos incluyen efectivo y equivalentes significativos, además de deudores comerciales y propiedades. Esto sugiere una gestión conservadora y una buena liquidez.
 
-### Diez Puntos Claves
+#### 1.2. Pasivos:
+La empresa ha manejado sus pasivos de manera eficiente, manteniendo un equilibrio adecuado entre cuentas por pagar y provisiones. La disminución en las cuentas por pagar a entidades relacionadas podría indicar una estrategia de pago más efectiva.
 
-1. **Opinión Limpia del Auditor Independiente:**
-   - PricewaterhouseCoopers Consultores Auditores Compañía Limitada emitió una opinión limpia sobre los estados financieros, indicando que estos reflejan razonablemente la situación financiera y los resultados operacionales de la compañía conforme a las NIIF.
+#### 1.3. Patrimonio:
+El patrimonio ha aumentado gracias a las ganancias acumuladas, lo que refuerza la posición financiera de la empresa y su capacidad para generar y retener beneficios.
 
-2. **Disminución en Efectivo y Equivalentes al Efectivo:**
-   - El efectivo y equivalentes al efectivo disminuyeron de M$ 20.082.021 en 2022 a M$ 18.197.234 en 2023, mostrando una reducción en la liquidez inmediata de la empresa.
+### 2. Estados de Resultados
 
-3. **Reducción en Deudores Comerciales y Otras Cuentas por Cobrar:**
-   - Los deudores comerciales y otras cuentas por cobrar disminuyeron de M$ 2.300.691 en 2022 a M$ 2.015.000 en 2023, lo que podría indicar una mejora en la eficiencia de cobro.
+#### 2.1. Ingresos:
+Los ingresos han mostrado un incremento, lo que refleja una fuerte demanda por los servicios de la empresa y una estrategia de crecimiento efectiva.
 
-4. **Disminución en Activos No Corrientes:**
-   - Los activos no corrientes disminuyeron de M$ 2.822.501 en 2022 a M$ 2.060.498 en 2023, reflejando una reducción en inversiones a largo plazo.
+#### 2.2. Costo financiero:
+El costo financiero se ha mantenido bajo, lo que sugiere una gestión efectiva de la deuda y los costos de financiamiento.
 
-5. **Reducción en Pasivos Corrientes:**
-   - Los pasivos corrientes disminuyeron de M$ 11.365.908 en 2022 a M$ 7.591.985 en 2023, lo que indica una menor presión de deuda a corto plazo.
+#### 2.3. Gastos de administración:
+Los gastos de administración han aumentado, lo que podría estar relacionado con la expansión de operaciones y mejoras en la infraestructura.
 
-6. **Disminución en Pasivos No Corrientes:**
-   - Los pasivos no corrientes disminuyeron de M$ 840.616 en 2022 a M$ 401.201 en 2023, sugiriendo una reducción en obligaciones a largo plazo.
+#### 2.4. Resultado del ejercicio:
+El resultado del ejercicio es positivo, indicando una operación rentable y una gestión eficiente de los recursos.
 
-7. **Incremento en Ganancias Acumuladas:**
-   - Las ganancias acumuladas aumentaron de M$ 11.083.705 en 2022 a M$ 11.550.725 en 2023, lo que refleja una acumulación de utilidades retenidas.
+### 3. Estados de Flujos de Efectivo
 
-8. **Aumento en Ingresos de Actividades Ordinarias:**
-   - Los ingresos de actividades ordinarias aumentaron de M$ 77.882.405 en 2022 a M$ 83.665.049 en 2023, indicando un crecimiento en la capacidad de generación de ingresos.
+#### 3.1. Flujos de actividades de operación:
+La empresa genera flujos de efectivo positivos de sus operaciones, indicando una buena capacidad de generar ingresos operativos.
 
-9. **Sólida Ganancia del Ejercicio:**
-   - La ganancia del ejercicio se mantuvo sólida con M$ 11.550.725 en 2023, comparada con M$ 11.083.705 en 2022, mostrando estabilidad en la rentabilidad de la empresa.
+#### 3.2. Flujos de actividades de inversión:
+No hay flujos de efectivo utilizados en actividades de inversión, lo que sugiere una estabilidad en las inversiones actuales.
 
-10. **Flujos de Efectivo Positivos de Operaciones:**
-    - Los flujos de efectivo netos procedentes de actividades de operación fueron positivos, alcanzando M$ 8.822.868 en 2023, comparados con M$ 9.917.938 en 2022, indicando una buena capacidad de generación de efectivo a partir de las operaciones principales de la compañía.
+#### 3.3. Flujos de actividades de financiamiento:
+Los flujos de efectivo negativos en actividades de financiamiento reflejan pagos significativos, posiblemente relacionados con dividendos o servicio de deuda.
 
-Estos puntos clave resaltan la estabilidad financiera y algunos desafíos enfrentados por Santander Asset Management S.A. Administradora General de Fondos, incluyendo la gestión de sus activos y pasivos, la consistencia en los ingresos operacionales, y las variaciones en la liquidez y rentabilidad.
+#### 3.4. Efectivo y equivalente al efectivo:
+El efectivo y equivalentes al efectivo han aumentado, mostrando una posición de liquidez fuerte y una buena gestión del efectivo.
+
+## Diez puntos clave numerados
+
+1. La auditoría confirma que los estados financieros presentan razonablemente la situación financiera.
+2. Incremento significativo en el efectivo y equivalentes al efectivo.
+3. Estabilidad en las deudas comerciales y otras cuentas por cobrar.
+4. Reducción en las cuentas por pagar a entidades relacionadas.
+5. Aumento en los ingresos de actividades ordinarias.
+6. Mantenimiento de bajos costos financieros.
+7. Incremento en los gastos de administración debido a posibles expansiones.
+8. Resultado positivo del ejercicio, demostrando una gestión eficiente.
+9. Flujos de efectivo operativos positivos, indicando una fuerte generación de efectivo.
+10. Aumento en el efectivo y equivalentes al efectivo, mejorando la liquidez de la empresa.
