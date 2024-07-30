@@ -1,104 +1,104 @@
-# Resumen financiero de Santander Asset Management S.A. Administradora General de Fondos al 31 de diciembre de 2023
+## Resumen financiero de Santander Asset Management S.A. Administradora General de Fondos al 31 de diciembre de 2023
 
-## Resumen Cuantitativo
+### Resumen Cuantitativo
 
-### 1. Opinión del Auditor Independiente
+#### 1. Opinión del Auditor Independiente
 
 El auditor independiente, Fernando Orihuela B. de PricewaterhouseCoopers Consultores Auditores Compañía Limitada, realizó la auditoría de los estados financieros. En su opinión, los estados financieros adjuntos presentan razonablemente, en todos sus aspectos significativos, la situación financiera de Santander Asset Management S.A. Administradora General de Fondos al 31 de diciembre de 2023 y 2022, los resultados de sus operaciones y sus flujos de efectivo por los años terminados en esas fechas de acuerdo con Normas Internacionales de Información Financiera emitidas por el International Accounting Standards Board.
 
-### 2. Estados de Situación Financiera
+#### 2. Estados de Situación Financiera
 
-#### 2.1. Activos:
+**2.1. Activos:**
 - Efectivo y efectivo equivalente: 18.197.234 M$
 - Deudores comerciales y otras cuentas por cobrar: 2.015.000 M$
 - Propiedad, planta y equipos: 317.823 M$
 
 Total de activos: 22.939.043 M$
 
-#### 2.2. Pasivos:
+**2.2. Pasivos:**
 - Cuentas comerciales y otras cuentas por pagar: 553.415 M$
 - Cuentas por pagar a entidades relacionadas: 1.987.992 M$
 - Provisiones por beneficios a los empleados: 2.109.361 M$
 
 Total de pasivos: 7.993.186 M$
 
-#### 2.3. Patrimonio:
+**2.3. Patrimonio:**
 - Capital emitido: 12.045.333 M$
 - Ganancias acumuladas: 11.550.725 M$
 - Total patrimonio: 14.945.857 M$
 
-### 3. Estados de Resultados
+#### 3. Estados de Resultados
 
-#### 3.1. Ingresos:
+**3.1. Ingresos:**
 83.665.049 M$
 
-#### 3.2. Costo financiero:
+**3.2. Costo financiero:**
 16.770 M$
 
-#### 3.3. Gastos de administración:
+**3.3. Gastos de administración:**
 70.918.094 M$
 
-#### 3.4. Resultado del ejercicio:
+**3.4. Resultado del ejercicio:**
 11.550.725 M$
 
-### 4. Estados de Flujos de Efectivo
+#### 4. Estados de Flujos de Efectivo
 
-#### 4.1. Flujos de actividades de operación:
+**4.1. Flujos de actividades de operación:**
 8.822.868 M$
 
-#### 4.2. Flujos de actividades de inversión:
+**4.2. Flujos de actividades de inversión:**
 0 M$
 
-#### 4.3. Flujos de actividades de financiamiento:
+**4.3. Flujos de actividades de financiamiento:**
 (10.502.874) M$
 
-#### 4.4. Efectivo y equivalente al efectivo:
+**4.4. Efectivo y equivalente al efectivo:**
 18.197.234 M$
 
 Los estados financieros muestran una gestión efectiva con ingresos sólidos, a pesar de los altos costos financieros y gastos de administración. La empresa mantiene un resultado positivo en el ejercicio y una buena capacidad de generación de efectivo a través de sus operaciones. La posición de liquidez es fuerte con un aumento en el efectivo y equivalentes al efectivo.
 
-## Resumen Cualitativo
+### Resumen Cualitativo
 
-### 1. Estados de Situación Financiera
+#### 1. Estados de Situación Financiera
 
-#### 1.1. Activos:
+**1.1. Activos:**
 Los activos incluyen efectivo y equivalentes significativos, además de deudores comerciales y propiedades. Esto sugiere una gestión conservadora y una buena liquidez.
 
-#### 1.2. Pasivos:
+**1.2. Pasivos:**
 La empresa ha manejado sus pasivos de manera eficiente, manteniendo un equilibrio adecuado entre cuentas por pagar y provisiones. La disminución en las cuentas por pagar a entidades relacionadas podría indicar una estrategia de pago más efectiva.
 
-#### 1.3. Patrimonio:
+**1.3. Patrimonio:**
 El patrimonio ha aumentado gracias a las ganancias acumuladas, lo que refuerza la posición financiera de la empresa y su capacidad para generar y retener beneficios.
 
-### 2. Estados de Resultados
+#### 2. Estados de Resultados
 
-#### 2.1. Ingresos:
+**2.1. Ingresos:**
 Los ingresos han mostrado un incremento, lo que refleja una fuerte demanda por los servicios de la empresa y una estrategia de crecimiento efectiva.
 
-#### 2.2. Costo financiero:
+**2.2. Costo financiero:**
 El costo financiero se ha mantenido bajo, lo que sugiere una gestión efectiva de la deuda y los costos de financiamiento.
 
-#### 2.3. Gastos de administración:
+**2.3. Gastos de administración:**
 Los gastos de administración han aumentado, lo que podría estar relacionado con la expansión de operaciones y mejoras en la infraestructura.
 
-#### 2.4. Resultado del ejercicio:
+**2.4. Resultado del ejercicio:**
 El resultado del ejercicio es positivo, indicando una operación rentable y una gestión eficiente de los recursos.
 
-### 3. Estados de Flujos de Efectivo
+#### 3. Estados de Flujos de Efectivo
 
-#### 3.1. Flujos de actividades de operación:
+**3.1. Flujos de actividades de operación:**
 La empresa genera flujos de efectivo positivos de sus operaciones, indicando una buena capacidad de generar ingresos operativos.
 
-#### 3.2. Flujos de actividades de inversión:
+**3.2. Flujos de actividades de inversión:**
 No hay flujos de efectivo utilizados en actividades de inversión, lo que sugiere una estabilidad en las inversiones actuales.
 
-#### 3.3. Flujos de actividades de financiamiento:
+**3.3. Flujos de actividades de financiamiento:**
 Los flujos de efectivo negativos en actividades de financiamiento reflejan pagos significativos, posiblemente relacionados con dividendos o servicio de deuda.
 
-#### 3.4. Efectivo y equivalente al efectivo:
+**3.4. Efectivo y equivalente al efectivo:**
 El efectivo y equivalentes al efectivo han aumentado, mostrando una posición de liquidez fuerte y una buena gestión del efectivo.
 
-## Diez puntos clave numerados
+### Diez puntos clave numerados
 
 1. La auditoría confirma que los estados financieros presentan razonablemente la situación financiera.
 2. Incremento significativo en el efectivo y equivalentes al efectivo.

@@ -1,104 +1,104 @@
-# Resumen financiero de Fintual Administradora General de Fondos S.A. al 31 de diciembre de 2023
+## Resumen financiero de Fintual Administradora General de Fondos S.A. al 31 de diciembre de 2023
 
-## Resumen Cuantitativo
+### Resumen Cuantitativo
 
-### 1. Opinión del Auditor Independiente
+#### 1. Opinión del Auditor Independiente
 
 El auditor independiente, Claudia Klapp Salazar de KPMG Auditores Consultores Limitada, realizó la auditoría de los estados financieros. En su opinión, los estados financieros adjuntos presentan razonablemente, en todos sus aspectos significativos, la situación financiera de Fintual Administradora General de Fondos S.A. al 31 de diciembre de 2023 y 2022, y los resultados de sus operaciones y los flujos de efectivo por los años terminados en esas fechas de acuerdo con Normas Internacionales de Información Financiera emitidas por el International Accounting Standards Board.
 
-### 2. Estados de Situación Financiera
+#### 2. Estados de Situación Financiera
 
-#### 2.1. Activos:
+**2.1. Activos:**
 - Efectivo y equivalentes al efectivo: 548.159 M$
 - Deudores comerciales y otras cuentas por cobrar: 259.861 M$
 - Propiedades, plantas y equipos: 1.716 M$
 
 Total de activos: 952.226 M$
 
-#### 2.2. Pasivos:
+**2.2. Pasivos:**
 - Cuentas por pagar a entidades relacionadas: 139.970 M$
 - Pasivos por impuestos corrientes: 89.160 M$
 - Cuentas por pagar comerciales y otras cuentas por pagar: 74.152 M$
 
 Total de pasivos: 361.633 M$
 
-#### 2.3. Patrimonio:
+**2.3. Patrimonio:**
 - Capital emitido: 2.805.000 M$
 - Ganancias (pérdidas) acumuladas: (2.214.407) M$
 - Total patrimonio: 590.593 M$
 
-### 3. Estados de Resultados
+#### 3. Estados de Resultados
 
-#### 3.1. Ingresos:
+**3.1. Ingresos:**
 4.568.048 M$
 
-#### 3.2. Costo financiero:
+**3.2. Costo financiero:**
 - M$
 
-#### 3.3. Gastos de administración:
+**3.3. Gastos de administración:**
 4.239.104 M$
 
-#### 3.4. Resultado del ejercicio:
+**3.4. Resultado del ejercicio:**
 (1.383.510) M$
 
-### 4. Estados de Flujos de Efectivo
+#### 4. Estados de Flujos de Efectivo
 
-#### 4.1. Flujos de actividades de operación:
+**4.1. Flujos de actividades de operación:**
 (1.447.967) M$
 
-#### 4.2. Flujos de actividades de inversión:
+**4.2. Flujos de actividades de inversión:**
 0 M$
 
-#### 4.3. Flujos de actividades de financiamiento:
+**4.3. Flujos de actividades de financiamiento:**
 1.560.000 M$
 
-#### 4.4. Efectivo y equivalente al efectivo:
+**4.4. Efectivo y equivalente al efectivo:**
 548.159 M$
 
 Los estados financieros muestran una gestión financiera que enfrenta desafíos con pérdidas en el ejercicio, pero con una estrategia de financiamiento efectiva que ha permitido un incremento en el capital emitido. La empresa mantiene una posición de liquidez sólida con un aumento en el efectivo y equivalentes al efectivo.
 
-## Resumen Cualitativo
+### Resumen Cualitativo
 
-### 1. Estados de Situación Financiera
+#### 1. Estados de Situación Financiera
 
-#### 1.1. Activos:
+**1.1. Activos:**
 Los activos incluyen una cantidad significativa de efectivo y equivalentes, lo que indica una buena gestión de la liquidez. La presencia de deudores comerciales y propiedades refleja una operación continua y activa.
 
-#### 1.2. Pasivos:
+**1.2. Pasivos:**
 La empresa ha manejado sus pasivos de manera efectiva, aunque hay una cantidad considerable en cuentas por pagar a entidades relacionadas. Esto podría indicar una dependencia en financiamiento interno.
 
-#### 1.3. Patrimonio:
+**1.3. Patrimonio:**
 El patrimonio muestra un aumento en el capital emitido, pero también una acumulación de pérdidas. Esto sugiere que la empresa está recibiendo inyecciones de capital para sostener su operación a pesar de los resultados negativos.
 
-### 2. Estados de Resultados
+#### 2. Estados de Resultados
 
-#### 2.1. Ingresos:
+**2.1. Ingresos:**
 Los ingresos han mostrado una disminución en comparación con el año anterior, lo que podría estar relacionado con una reducción en las actividades ordinarias o una competencia creciente en el mercado.
 
-#### 2.2. Costo financiero:
+**2.2. Costo financiero:**
 No se reportan costos financieros significativos, lo que sugiere una mínima dependencia en financiamiento externo costoso.
 
-#### 2.3. Gastos de administración:
+**2.3. Gastos de administración:**
 Los gastos de administración se han mantenido elevados, lo que puede estar afectando negativamente la rentabilidad de la empresa.
 
-#### 2.4. Resultado del ejercicio:
+**2.4. Resultado del ejercicio:**
 El resultado del ejercicio muestra una pérdida significativa, lo que indica desafíos en la gestión de ingresos y control de costos.
 
-### 3. Estados de Flujos de Efectivo
+#### 3. Estados de Flujos de Efectivo
 
-#### 3.1. Flujos de actividades de operación:
+**3.1. Flujos de actividades de operación:**
 Los flujos de efectivo operativos son negativos, lo que indica que la empresa está gastando más efectivo del que está generando en sus operaciones diarias.
 
-#### 3.2. Flujos de actividades de inversión:
+**3.2. Flujos de actividades de inversión:**
 No se reportan actividades de inversión, lo que puede sugerir una pausa en la expansión o mejora de activos.
 
-#### 3.3. Flujos de actividades de financiamiento:
+**3.3. Flujos de actividades de financiamiento:**
 Los flujos de efectivo positivos en actividades de financiamiento reflejan una inyección de capital significativo, lo que ayuda a mantener la liquidez de la empresa.
 
-#### 3.4. Efectivo y equivalente al efectivo:
+**3.4. Efectivo y equivalente al efectivo:**
 El efectivo y equivalentes al efectivo han aumentado, mostrando una mejora en la posición de liquidez a pesar de las pérdidas operativas.
 
-## Diez puntos clave numerados
+### Diez puntos clave numerados
 
 1. La auditoría confirma que los estados financieros presentan razonablemente la situación financiera.
 2. Incremento significativo en el efectivo y equivalentes al efectivo.
